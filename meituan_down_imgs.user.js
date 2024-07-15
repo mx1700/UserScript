@@ -4,10 +4,12 @@
 // @match       https://e.passiontec.cn/irs-web/gaia/index.html*
 // @grant       none
 // @version     1.1
-// @author      -
+// @author      mx1700
 // @description 2024/7/15 15:23:05
 // @grant        GM_download
 // @grant        GM_notification
+// @updateURL    https://github.com/mx1700/UserScript/raw/main/meituan_down_imgs.user.js
+// @downloadURL  https://github.com/mx1700/UserScript/raw/main/meituan_down_imgs.user.js
 // ==/UserScript==
 (function() {
     'use strict';
