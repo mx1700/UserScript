@@ -8,6 +8,8 @@
 // @description 2024/7/15 20:56:14
 // @grant        GM_download
 // @grant        GM_notification
+// @updateURL    https://github.com/mx1700/UserScript/raw/main/meituanguanjia_down_imgs.user.js
+// @downloadURL  https://github.com/mx1700/UserScript/raw/main/meituanguanjia_down_imgs.user.js
 // ==/UserScript==
 
 (function() {
