@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://e.passiontec.cn/irs-web/gaia/index.html*
 // @grant       none
-// @version     1.1
+// @version     1.0
 // @author      mx1700
 // @description 2024/7/15 15:23:05
 // @grant        GM_download
@@ -16,7 +16,7 @@
 
     // 创建按钮元素
     var button = document.createElement('button');
-    button.innerHTML = '下载所有图片!';
+    button.innerHTML = '下载所有图片';
     button.style.position = 'fixed';
     button.style.top = '1px';
     button.style.right = '1px';
