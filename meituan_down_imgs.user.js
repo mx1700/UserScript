@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://e.passiontec.cn/irs-web/gaia/index.html*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      -
 // @description 2024/7/15 15:23:05
 // @grant        GM_download
