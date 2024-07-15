@@ -14,7 +14,7 @@
 
     // 创建按钮元素
     var button = document.createElement('button');
-    button.innerHTML = '下载所有图片';
+    button.innerHTML = '下载所有图片!';
     button.style.position = 'fixed';
     button.style.top = '1px';
     button.style.right = '1px';
